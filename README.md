@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img alt="1" src="https://github.com/giovannibriones/ad-user-generation/assets/163789590/e692ac0b-3512-4cc7-b912-7b58b89043ec"/>
+
 </p>
 
 <h1> Active Directory: User Generation </h1>
@@ -44,7 +45,8 @@
 
 <br>
 
-<img width="821" alt="POWERSHELL" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/bdc4f2ad-cb4b-4509-83cf-c2c1ec8c4dfd">
+<img width="821" alt="2" src="https://github.com/giovannibriones/ad-user-generation/assets/163789590/f8c6ed02-4961-43c7-a534-d705bbcee117">
+
 
 <p><strong>The script will generate a number of users with a combination of consonants and vowels so the names might be unusual. </strong> </p>
 
@@ -56,7 +58,7 @@
 
 <p><strong>Once the script is done running, you can verify in Active Directory that the users have been created.</strong></p>
 
-<img width="562" alt="USERS" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/07b77e8f-07a7-4048-a04b-9d623ddebfc2">
+<img width="562" alt="3" src="https://github.com/giovannibriones/ad-user-generation/assets/163789590/0f28eb98-e9ae-40a6-9d5f-2a020c5bbd1f">
 
 
 <h3>&#9313; Login as user </h3>
@@ -64,12 +66,12 @@
 - Now you can try logging in as one of the users to further verify that the script has worked.
 - Take note of the default password in the script (Password1)
 
-<img width="335" alt="LOGIN" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/2cedd731-17ff-4595-869b-0111d5bc2f6f">
+<img width="335" alt="4" src="https://github.com/giovannibriones/ad-user-generation/assets/163789590/08b77b23-6732-41cf-a6e8-fdb5e80a8a7d">
 
 
-<h2> Final Thoughts </h2>
+<h2> In Conclusion </h2>
 
-<p> In closing, the "Active Directory User Generation" project streamlines our user management process. Using a PowerShell script, we efficiently create user accounts, setting the stage for the next projects.</p>
+<p> In summary, the "Active Directory User Generation" project streamlines our user management process. Using a PowerShell script, we efficiently create user accounts, setting the stage for the next projects.</p>
 
 
 
